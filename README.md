@@ -1,5 +1,3 @@
-19.04.2024 0100AM Soon
-
 This repository contains a simple Node.js application that shows you how to generate metrics in Prometheus format.
 
 Test run the application and it worked perfectly.
